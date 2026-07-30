@@ -67,13 +67,15 @@ Welcome to my GitHub profile! I am a passionate and aspiring Data Analyst who en
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kajal%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajal-singh-54542334b)
+💼 LinkedIn  
+https://www.linkedin.com/in/kajal-singh-54542334b
 
-[![Instagram](https://img.shields.io/badge/Instagram-_kajalsingh_18-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kajalsingh_18)
+📷 Instagram  
+https://www.instagram.com/_kajalsingh_18
 
-[![Gmail](https://img.shields.io/badge/Gmail-kajalsinghbhilai198%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kajalsinghbhilai198@gmail.com)
+📧 Email  
+kajalsinghbhilai198@gmail.com
 
----
 
 ## 💡 Quote
 
