@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am a passionate and aspiring Data Analyst who en
 - 📉 Matplotlib
 - 📊 Seaborn
 - 📋 Git & GitHub
-- 🤖 Machine Learning (Basics)
+- 🤖 Machine Learning 
 - 📂 Data Cleaning
 - 📊 Data Visualization
 - 📈 Exploratory Data Analysis (EDA)
